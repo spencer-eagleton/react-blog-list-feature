@@ -26,6 +26,9 @@ Object {
           >
             lorem ipsum blah blah blah
           </div>
+          <div>
+            Denise Faulker
+          </div>
         </div>
         <div
           class="image"
@@ -58,6 +61,9 @@ Object {
           class="text"
         >
           lorem ipsum blah blah blah
+        </div>
+        <div>
+          Denise Faulker
         </div>
       </div>
       <div
